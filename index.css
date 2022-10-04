@@ -1,0 +1,86 @@
+body {
+ text-align: center;
+ background-color: Black;
+ 
+}
+#root{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  /* padding-left: 50px;
+  padding-right: 50px; */
+  margin-left: 300px;
+  margin-right: 360px;
+  border-color: black;
+  background-color: grey;
+  border-radius: 5%;
+}
+header{
+  text-align: center
+  
+}
+.imagee{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  width: 100%;
+}
+h2{
+  font-weight: bold;
+  color:white;
+  text-align: center;
+}
+h5{
+  text-align: center;
+  color:white;
+}
+h4{
+  text-align: left;
+  font-weight: bold;
+  color: white;
+}
+p{
+  padding-left: 30px;
+  padding-right: 30px;
+  
+}
+h6{
+  text-align: left;
+  font-weight: bolder;
+  color: white;
+}
+
+button{
+  border-radius: 10%;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: blue;
+}
+.sucess{
+  text-align: left;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.danger{
+  text-align: right;
+  margin-left: 150px;
+}
+footer{
+  text-align:center;
+  background-color:darkslategray;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.footer{
+  margin: 30px;
+}
+button:hover{
+  background-color: red;
+}
+.butt{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
